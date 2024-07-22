@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Users\Mateusz\eclipse-workspace\project\core\src\main\java\com\example\App.java">
+</file>
+<file name="C:\Users\Mateusz\eclipse-workspace\project\core\src\main\resources\dev\application.properties">
+</file>
+<file name="C:\Users\Mateusz\eclipse-workspace\project\core\src\main\resources\prod\application.properties">
+</file>
+</checkstyle>
